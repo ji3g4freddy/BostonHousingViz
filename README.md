@@ -1,4 +1,4 @@
-# BostonHousingViz
+# BostonHousingViz(Interactive)
 
 ## Group Member:
 
@@ -23,3 +23,7 @@ This dataset contains detailed information of real estates in Boston area. There
 There are **classification features** such as type of land used `LU` or type of structural `STRUCTURE_CLASS`, those features are returned as categorical variable; **descriptive features** such as total number of rooms `R_TOTAL_RMS` or total number of bath `R_FULL_BTH`, those features are returned as numerical variable; **condition descriptions** such as overall condition `R_OVRALL_CND` or interior finish `R_INT_FIN`, returned as categorical variable; **assessment value** such as total assessed value for property `AV_TOTAL` or total assessed land value `AV_LAND`, those features are returned as numerical variables.
 
 We are only using the residential properties of Boston in this dataset.
+
+
+## Demo(nbviewer)
+http://nbviewer.jupyter.org/gist/ji3g4freddy/0a6e0c9595a825bad540f7fe8a27866e
